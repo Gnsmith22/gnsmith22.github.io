@@ -7,4 +7,5 @@ This is a link to my [statement where I look forward to my next steps](lookingfo
 This is a link to my [Printing in Prisons essay](https://printinginprisons.org/blog/smithg/).
 
 [my EC baseball project presenation](baseball.png)
-
+[embroidery workshop](embroideryworkshop.png)
+[mixtape workshop](mixtapeworkshop.png)
