@@ -8,5 +8,3 @@ This is a link to my [Printing in Prisons essay](https://printinginprisons.org/b
 
 This is a link to my [EC baseball project presenation](baseball.png)
 
-![my EC baseball project presentation](baseball.png)
-
