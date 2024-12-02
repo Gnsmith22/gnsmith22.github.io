@@ -1,1 +1,1 @@
-(./path-to-your-folder/Digital%20Humanities%20Baseball%20Presentation.pdf)
+[View the Presentation](https://your-website.com/Digital-Humanities-Baseball-Presentation.pdf)
