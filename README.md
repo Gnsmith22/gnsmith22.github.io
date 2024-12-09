@@ -1,4 +1,4 @@
-# gnsmith22.github.io
+# Gracie's Digital Humanities Final Portfolio
 Welcome to my Final Portfolio for Introduction to Digital Humanities!
 
 This is a link to the [Page about me](aboutpage.html).
